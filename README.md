@@ -4,7 +4,7 @@
 
 ## Tips
 
--   Is mandatory set _"BLING_KEY"_ and _"PIPEDRIVE_KEY"_ on `.env` file
+-   Is mandatory set `MONGO_URL`, `BLING_KEY` and `PIPEDRIVE_KEY` on `.env` file (See `.env-example` file)
 -   This API will insert only **deals with products**
 
 ## Routes
